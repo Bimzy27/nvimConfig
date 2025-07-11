@@ -15,3 +15,7 @@ Optionally: Install the [chocolatey](https://docs.chocolatey.org/en-us/choco/set
 [Telescope](https://github.com/nvim-telescope/telescope.nvim)
 [Neovim](https://neovim.io/)
 [Lua](https://www.lua.org/)
+
+## LSP Prerequisites
+
+- Lua ('choco install lua-language-server')
