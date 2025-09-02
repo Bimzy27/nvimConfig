@@ -11,6 +11,6 @@ return {
       },
     })
 
-    vim.keymap.set("n", "<leader>gf", vim.lsp.buf.format, {})
+    -- Keymappings moved to vim-options.lua
   end,
 }
